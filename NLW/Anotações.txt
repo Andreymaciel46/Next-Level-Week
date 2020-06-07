@@ -22,3 +22,5 @@ max-width: 1100px;   A caixa deve ter uma tamanho máximo de 1100
 
 margin: top right botton left;
 
+>>Resposividade
+
